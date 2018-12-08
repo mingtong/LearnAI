@@ -2,7 +2,7 @@
 
 从4个维度：
 
-**像人类一样地行动（Acting humanly）**
+- **像人类一样地行动（Acting humanly）**
 
 通过 [图灵测试](http://baike.baidu.com/item/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95) 的AI 需要具有的能力：
  - 自然语言处理（[NLP，natural language process](https://en.wikipedia.org/wiki/Natural_language_processing)）：用语言沟通。
@@ -12,14 +12,14 @@
  - 计算机视觉（[computer vision](https://en.wikipedia.org/wiki/Computer_vision)）：感知物体。
  - 自动化（[robotics](https://en.wikipedia.org/wiki/Robotics)）：操作以及移动物体。
 
-**像人类一样地思考（Thinking humanly）**
+- **像人类一样地思考（Thinking humanly）**
 
 如果想让程序像人类一样思考，首先要知道人类怎么思考，有3种研究人类思考的方式：
  - 通过反思：试着回想我们曾经的想法。
  - 通过心理学实验：观察一个行动中的人。
  - 通过脑成象：观察一个行动中的人的大脑。
 
-**合理地思考（Thinking rationally）**
+- **合理地思考（Thinking rationally）**
 
 正确的思考意味着定义不可被推翻，比如亚里士多德的3段论：A是男人，男人是人，A是人。这叫做逻辑学。
 AI 试着用逻辑来构建智能系统，但是有两个障碍：
@@ -27,7 +27,7 @@ AI 试着用逻辑来构建智能系统，但是有两个障碍：
  - 用逻辑符号所需要的正式术语陈述非正式的信息，尤其当信息不是100%确定时。
  - 按原则解决问题和按实践解决问题的区别。
 
-**合理地行动（Action rationally）**
+- **合理地行动（Action rationally）**
 
 一个 **agent** 就是要做一些事的东西。所有的计算机程序都要做事情，但是 agent 要做更多事。
 一个 合理的 agent 做的事情要达到最好结果，或者存在不确定性时，要达到最好的期望结果。
