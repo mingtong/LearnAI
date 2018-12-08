@@ -4,7 +4,7 @@
 
 **像人类一样地行动（Acting humanly）**
 
-通过 [图灵测试](http://baike.baidu.com/item/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95)的AI 需要具有的能力：
+通过 [图灵测试](http://baike.baidu.com/item/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95) 的AI 需要具有的能力：
  - 自然语言处理（[NLP，natural language process](https://en.wikipedia.org/wiki/Natural_language_processing)）：用语言沟通。
  - 知识表达（[knowledge representation](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning)）：保存听到和知道的东西。
  - 自动推理（[automated reasoning](https://en.wikipedia.org/wiki/Automated_reasoning)）：使用存储的信息回答问题并得出新的结论。
